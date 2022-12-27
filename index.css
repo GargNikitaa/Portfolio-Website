@@ -2,6 +2,10 @@
 	background-color: #edf2fc;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 .list li{
 	display: inline;
     font-size: 17px;
